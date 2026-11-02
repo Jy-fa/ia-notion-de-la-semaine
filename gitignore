@@ -1,0 +1,12 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données et index volumineux
+data/
+*.index
+*.npy
